@@ -1,2 +1,3 @@
 # Algorithms-and-data-structures
-ta dam
+My programs for collage in python.
+We had offline tasks and tests during classes.
