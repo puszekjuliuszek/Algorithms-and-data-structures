@@ -4,4 +4,5 @@ Dany jest ciąg przedziałów domkniętych L = [[a1, b1], . . . , [an, bn]]. Poc
 
 Algorytm należy zaimplementować jako funkcję postaci:
 def depth( L ):
+
 która przyjmuje listę przedziałów L i zwraca maksimum z poziomów przedziałów w L.
