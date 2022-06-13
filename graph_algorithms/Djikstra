@@ -48,4 +48,4 @@ if __name__ == "__main__":
          [inf,inf,inf,inf,1,4,7,inf,inf],
          [1,inf,inf,inf,inf,inf,2,inf,inf]]
     
-    print(Djikstra(G,s))
+    print(Djikstra(G,0))
