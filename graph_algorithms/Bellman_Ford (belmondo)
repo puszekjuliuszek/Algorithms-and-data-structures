@@ -1,4 +1,4 @@
-# i like to call this alogorithm Belmondo's algorithm
+# i like to call this alogorithm Belmondo's algorithm because in polish "Bellmana-Forda sounds a littlile like Belmonda
 
 
 def min_id(T, used):
