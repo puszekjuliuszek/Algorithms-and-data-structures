@@ -1,1 +1,17 @@
+from queue import deque
 
+
+def bfs(G, s):
+    que = deque()
+    que.append(s)
+    paths = [None for _ in range(len(G))]
+    paths[s] = [0, []]
+    while que:
+        current = que.popleft()
+        for i in G[current]:
+            if paths[i] == None:
+                paths[i] = [paths[current][0] + 1, [current]]
+                que.append(i)
+            elif paths[i][0] == paths[current][0] + 1 and current not in paths[i][1]:
+                paths[i][1].append(current)
+    return paths
