@@ -5,7 +5,7 @@ def Floyd_Warshall(G):
     n = len(G)
     D = [[G[i][j] for j in range(n)] for i in range(n)]
 
-    #bulin matrix to have parents
+    #building matrix to have parents
     PI = [[None for _ in range(n)] for _ in range(n)]
     for i in range(n):
         for j in range(n):
