@@ -1,5 +1,5 @@
 # Algorithms-and-data-structures
-**ENG below**
+**POL:**
 
 Tutaj wrzucam wszystko co robię na ASD, czyli zadania offline, kolokwia i egzaminy. Dodatkowo mam [algorytmy grafowe](https://github.com/puszekjuliuszek/Algorithms-and-data-structures/tree/main/graph_algorithms) poimplementowane na macierzach i zadania z poprzednich lat w folderach dotyczących przygotowań
 
