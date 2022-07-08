@@ -10,6 +10,6 @@ Wiem, że nie wszytskie moje programy to są wzorócwki, ale przy każdym mam op
 ENG:
 My programs for collage in python.
 
-We had offline tasks and colloqiums during classes and the exam in the end. Additionaly i have some [graph algorithms] (https://github.com/puszekjuliuszek/Algorithms-and-data-structures/tree/main/graph_algorithms) implemented on matrixes
+We had offline tasks and colloqiums during classes and the exam in the end. Additionaly i have some [graph algorithms](https://github.com/puszekjuliuszek/Algorithms-and-data-structures/tree/main/graph_algorithms) implemented on matrixes
 
 Not every my sollution is the best, ale "lepszy rydz niż nic". There are my comments in README files which suggest the correctivnes of my sollutions
