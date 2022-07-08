@@ -1,5 +1,5 @@
 # Algorithms-and-data-structures
-ENG below
+**ENG below**
 
 Tutaj wrzucam wszystko co robię na ASD, czyli zadania offline, kolokwia i egzaminy. Dodatkowo mam [algorytmy grafowe](https://github.com/puszekjuliuszek/Algorithms-and-data-structures/tree/main/graph_algorithms) poimplementowane na macierzach i zadania z poprzednich lat w folderach dotyczących przygotowań
 
@@ -7,7 +7,8 @@ Wiem, że nie wszytskie moje programy to są wzorócwki, ale przy każdym mam op
 
 "Dobry brut z błędami" jest spoko, ale daleko mu do legendarnej złożoności O(nic)
 
-ENG:
+**ENG:**
+
 My programs for collage in python.
 
 We had offline tasks and colloqiums during classes and the exam in the end. Additionaly i have some [graph algorithms](https://github.com/puszekjuliuszek/Algorithms-and-data-structures/tree/main/graph_algorithms) implemented on matrixes
